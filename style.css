@@ -1,0 +1,14 @@
+#game-board {
+    width: 100%;
+    height: 800px;
+    background: gray;
+    background-size: cover;
+}
+
+.tile {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    float: left;
+    margin: 5px;
+}
