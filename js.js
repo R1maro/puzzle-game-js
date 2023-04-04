@@ -29,7 +29,7 @@ function createBoard() {
     message.innerHTML = '';
 }
 
-function shuffle() {
+function shuffle(array) {
     // Implementation for shuffle algorithm
     // ...
     createBoard();
